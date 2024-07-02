@@ -1,15 +1,15 @@
 # Analyzing-Amazon-Reviews-Sentiment-Classification-with-NLP-and-Deep-Learning
 A Sentiment Analysis system using Natural Language Processing (NLP) and Deep Learning models to classify Amazon reviews as either positive or negative.
 
-Overview
+### Overview
 
 Online reviews have become a significant source of customer feedback for businesses. Amazon, being one of the largest online marketplaces, generates an enormous volume of customer reviews daily. These reviews provide valuable insights into customer satisfaction, preferences, and areas needing improvement. However, the sheer volume makes manual analysis impractical.
 
-Objective
+### Objective
 
 This project aims to design and implement a sentiment analysis system using Natural Language Processing (NLP) and Deep Learning models to classify Amazon reviews as either positive or negative. The goal is to develop a robust model that can accurately interpret the sentiment expressed in the reviews, thus providing actionable insights for businesses to enhance their products and services.
 
-Approach
+### Approach
 
 •	Data Preparation
 
@@ -31,10 +31,10 @@ Two deep learning models, a Simple RNN and an LSTM, are built to predict the sen
 
 The models are evaluated using accuracy scores, confusion matrices, and ROC curves to ensure they accurately classify the sentiment of the reviews.
 
-Results
+### Results
 
 The analysis reveals key insights into customer satisfaction and preferences. The distribution of review ratings shows a predominance of positive reviews. Temporal analysis indicates fluctuations in average ratings, while category analysis highlights high engagement in specific product categories. Bivariate analysis shows correlations between helpful votes, recommendations, and review lengths with ratings.
 
-Conclusion
+### Conclusion
 
 This sentiment analysis system provides a scalable and automated way to interpret vast amounts of customer feedback. By leveraging NLP and deep learning, businesses can gain valuable insights to improve their products and services, ultimately enhancing customer satisfaction.
